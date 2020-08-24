@@ -1,0 +1,21 @@
+{
+    "auth": {
+        "fetching": false,
+        "fetched": false,
+        "error": null,
+        "isLoggedIn": false,
+        "authdetails": null
+    },
+    "member": {
+        "fetching": false,
+        "fetched": false,
+        "error": null,
+        "member": null
+    },
+    "members": {
+        "fetching": false,
+        "fetched": false,
+        "error": null,
+        "members": []
+    }
+}

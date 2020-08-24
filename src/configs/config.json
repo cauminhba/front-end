@@ -1,0 +1,14 @@
+{
+    "auth": {
+        "auth_login_apiendpoint": "/user/login",
+        "auth_logout_apiendpoint": "/user/logout",
+        "auth_tokenvalidate_apiendpoint": "/auth/tokenvalidate"
+    },
+    "member": {
+        "get_member_list_apiendpoint": "/employee",
+        "create_member_apiendpoint": "/employee",
+        "update_member_apiendpoint": "/api/member",
+        "delete_member_apiendpoint": "/employee",
+        "get_member_detail_apiendpoint": "/api/member"
+    }
+}
